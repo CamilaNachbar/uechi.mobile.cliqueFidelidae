@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">cliqueFidelidade</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="mConectado">Login Automatico</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="title_activity_cadastro">CadastroActivity</string>
+    <string name="name">Nome</string>
+    <string name="celphone">Celular</string>
+    <string name="cpf">CPF</string>
+    <string name="CompleteName">Nome Completo</string>
+    <string name="repeatpassword">Repita a senha</string>
+    <string name="terms">Concordo com os termos</string>
+    <string name="title_activity_list">ListActivity</string>
+</resources>
